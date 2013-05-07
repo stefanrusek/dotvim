@@ -1,0 +1,6 @@
+[submodule "vimerl"]
+	path = bundle/vimerl
+	url = git://github.com/stefanrusek/vimide.git
+[submodule "ide"]
+	path = bundle/ide
+	url = git://github.com/jimenezrick/vimerl.git
